@@ -1,0 +1,4 @@
+numero = int(input('Digite um número: '))
+sucessor = numero + 1  # sucessor é o número que vem depois
+antecessor = numero - 1  # antecessor é o número que vem antes
+print(f'Você escolheu o número {numero}, seu sucessor é o número {sucessor} e o seu antecessor é o número {antecessor}.')
