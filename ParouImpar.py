@@ -48,4 +48,4 @@ while True:
             print('Você ganhou!!!')
             break
     print('Vamos jogar novamente...')
-print(f'Game Over! Você venceu {v} vezes.')
+print(f'Game Over! Você venceu {v} vezes.') 
